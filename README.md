@@ -6,7 +6,6 @@ Un asistente virtual que responde las preguntas más frecuentes de estudiantes y
 
 Proyecto del curso **IF651 – Inteligencia Artificial**.
 
-Repositorio: https://github.com/Dayan77uu/chatboot
 
 ---
 
